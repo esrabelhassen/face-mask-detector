@@ -38,7 +38,7 @@ while True:
             0.6, color, 2
         )
 
-    cv2.imshow("Mask Detector — press Q to quit", frame)
+    cv2.imshow("mask Detector /press Q to quit", frame)
 
     if cv2.waitKey(1) & 0xFF == ord("q"):
         break
