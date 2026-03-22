@@ -1,0 +1,22 @@
+# Requirements
+# Install with: pip install -r requirements.txt
+
+# Core
+ultralytics==8.4.24
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer vision
+opencv-python>=4.8.0
+
+# Intel hardware acceleration (optional)
+openvino>=2024.0.0
+
+# Data & visualization
+numpy>=1.23.0
+matplotlib>=3.3.0
+pillow>=9.0.0
+pyyaml>=6.0
+
+# Dataset download
+kaggle>=1.6.0
