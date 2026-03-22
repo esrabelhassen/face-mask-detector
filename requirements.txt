@@ -9,7 +9,7 @@ torchvision>=0.15.0
 # Computer vision
 opencv-python>=4.8.0
 
-# Intel hardware acceleration (optional)
+# (optional)
 openvino>=2024.0.0
 
 # Data & visualization
