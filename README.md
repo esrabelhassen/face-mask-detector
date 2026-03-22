@@ -1,4 +1,4 @@
-# Face Mask Detector 🎯
+# Face Mask Detector 
 
 A real-time face mask detection system built with YOLOv8 — trained from scratch on a custom dataset and deployed on a live webcam feed.
 
