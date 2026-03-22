@@ -2,8 +2,6 @@
 
 A real-time face mask detection system built with YOLOv8 — trained from scratch on a custom dataset and deployed on a live webcam feed.
 
-![Workflow](full_project_workflow.html)
-
 ---
 
 ## What it does
