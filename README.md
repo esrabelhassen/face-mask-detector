@@ -17,7 +17,7 @@ Detects whether a person is wearing a face mask or not in real time using a webc
 
 | Metric | Score |
 |---|---|
-| mAP@50 (overall) | **89.3%** |
+| mAP50 (overall) | **89.3%** |
 | Precision | **93.6%** |
 | Recall | **80.9%** |
 | with_mask mAP | **96.4%** |
